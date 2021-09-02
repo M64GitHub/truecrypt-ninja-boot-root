@@ -1,4 +1,4 @@
-# NBRK Ninja Boot Rootkit
+# NBRK - Ninja Boot Rootkit
 
 An in depth analysis by creating a working boot rootkit for the truecrypt hidden operating system, with in mem bootsector patching, revealing all passwords in pre kernel- (mbr), kernel- ("kernel password painter"), and user space (via ndis exploit or ntfs password writer), ... circulating around since 2013, now made public, since I just found the old harddisk ;)
 
