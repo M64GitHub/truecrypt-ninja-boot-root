@@ -18,3 +18,4 @@ all source code will follow. meanwhile some teaser screenshots. full disclosure 
 
 ![NBRK1](http://m64.rocks/ninja-boot-root/5.png "NBRK1")
 
+![NBRK1](http://m64.rocks/ninja-boot-root/10.png "NBRK1")
