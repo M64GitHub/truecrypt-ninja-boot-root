@@ -1,6 +1,6 @@
 # NBRK Ninja Boot Rootkit
 
-An in depth analysis by creating a working boot rootkit for the truecrypt hidden operating system, with in mem bootsector patching, revealing all passwords in pre kernel and user space, ... circulating in the underground since 2012, now made public, since I just found the old harddisk ;)
+An in depth analysis by creating a working boot rootkit for the truecrypt hidden operating system, with in mem bootsector patching, revealing all passwords in pre kernel and user space, ... circulating around since 2012, now made public, since I just found the old harddisk ;)
 
 "
 This document presents the results of a research about the infection-resistency of the truecrypt hidden operating system against the threats of boot rootkits. It targets the questions whether the state of the art malware could persistently infect the hidden OS from the outside (ie decoy OS), and if yes – how.
