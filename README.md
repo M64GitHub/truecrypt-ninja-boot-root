@@ -10,11 +10,11 @@ in pre kernel- (mbr, chainloader), kernel- ("kernel password painter"),
 and user space (via ndis exploit or ntfs password writer), ... 
 
 
-"This document presents the results of a research about the infection-resistency of the truecrypt hidden operating system against 
-the threats of boot rootkits. It targets the questions whether the state of the art malware could persistently infect the hidden OS 
-from the outside (ie decoy OS), and if yes – how."
+"This document presents the results of a research about the infection-resistency of the truecrypt hidden operating system 
+against the threats of boot rootkits. It targets the questions whether the state of the art malware could persistently 
+infect the hidden OS from the outside (ie decoy OS), and if yes – how."
 
-all source code will follow. meanwhile some teaser screenshots. full disclosure in the PDF.
+all source code will follow. meanwhile some teaser screenshots. full disclosure in the PDF (incl source).
 ```
 
 ## Ninja Boot Rootkit in action on WIN 7/32, XP
