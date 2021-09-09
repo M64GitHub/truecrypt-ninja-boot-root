@@ -16,7 +16,7 @@ and if yes – how."
 
 all source code will follow. meanwhile some teaser screenshots. full disclosure in the PDF (incl source).
 
-## Ninja Boot Rootkit in action on WIN 7/32, XP
+## Ninja Boot Rootkit in action on WIN 7/32, XP :
 ```
 
 
@@ -27,7 +27,7 @@ all source code will follow. meanwhile some teaser screenshots. full disclosure 
 ![NBRK1](http://m64.rocks/ninja-boot-root/5.png "NBRK1")
 
 ```
-## Windows XP Kernel Password Painter =8]
+## Windows XP Kernel Password Painter =8] : 
 ```
 
 ![NBRK1](http://m64.rocks/ninja-boot-root/10.png "NBRK1")
