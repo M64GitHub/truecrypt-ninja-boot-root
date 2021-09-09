@@ -2,7 +2,8 @@
 
 # NBRK - Ninja Boot Rootkit (for TrueCrypt hidden OS)
 
-```An in depth analysis by creating a working boot rootkit 
+```
+An in depth analysis by creating a working boot rootkit 
 for the truecrypt hidden operating system (verious windows flavours), 
 with in mem bootsector patching, revealing all passwords 
 in pre kernel- (mbr, chainloader), kernel- ("kernel password painter"), 
