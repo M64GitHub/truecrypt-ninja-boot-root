@@ -1,4 +1,4 @@
-> This is an old security research project, dating back to 2012/13. It was released only to a few people/groups for obvious reasons. My goal back then was to "totally" reverse engineer and exploit all security measures. As truecrypt is gone, I decided to publish it. I have left a secret pointer within the PDF to proove ownership. 
+> This is an old security research project, dating back to 2012/13. It was released only to a few people/groups for obvious reasons. My goal back then was to "totally" reverse engineer and exploit all security measures. As truecrypt is gone, I decided to publish it openly. I have left a secret pointer within the PDF to proove ownership. 
 > The original upload is still at http://www.k00n.byethost7.com/.
 
 # NBRK - Ninja Boot Rootkit (for TrueCrypt hidden OS)
