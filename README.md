@@ -1,4 +1,5 @@
-
+This is an old security research project, dating back to 2012/13. It was released only to a few people,
+for obvious reasons. As truecrypt is gone, I decided to publish it.
 
 # NBRK - Ninja Boot Rootkit (for TrueCrypt hidden OS)
 
