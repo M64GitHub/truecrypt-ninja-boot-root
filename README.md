@@ -10,7 +10,7 @@ ntfs password writer), ...
 Additional to it, a whole flexible boot chain loader "purple chain" was presented, including possibilities to boot any sector(s) on the truecrypt encrypted disk, to boot from CDROM after decryption, and lots of fancy stuff ...
 
 
-## "This document presents the results of a research about the infection-resistency of the truecrypt hidden operating system against the threats of boot rootkits. It targets the questions whether the state of the art malware could persistently infect the hidden OS from the outside (ie decoy OS), and if yes – how."
+### "This document presents the results of a research about the infection-resistency of the truecrypt hidden operating system against the threats of boot rootkits. It targets the questions whether the state of the art malware could persistently infect the hidden OS from the outside (ie decoy OS), and if yes – how."
 
 [Full Disclosure PDF](https://github.com/M64GitHub/truecrypt-ninja-boot-root/blob/main/revealing_the_hidden.pdf)
 
