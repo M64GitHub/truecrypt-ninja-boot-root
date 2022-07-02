@@ -31,7 +31,7 @@ start:
 	push 04a9ch
 	retf
 
-start_str 	db "Starting the shit ...", 0dh, 0ah, 00
+start_str 	db "Starting the xxxx ...", 0dh, 0ah, 00
 boot_str	db 0dh, 0ah, "Now booting the windows ... (press any key)", 0dh, 0ah, 0
 ; ====================================================================
 
