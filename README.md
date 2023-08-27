@@ -1,6 +1,6 @@
 <img width="1328" alt="3" src="https://github.com/M64GitHub/truecrypt-ninja-boot-root/assets/84202356/be664ea3-bfbe-4ad9-99f3-4dbf5f3f84f3"> 
 This is an old security research project, dating back to 2012/13. It was released to only a few people/groups for obvious reasons. My goal back then was to fully reverse engineer truecrypts protection and exploit all security measures. As truecrypt is gone, I decided to publish it openly. I have left a secret pointer within the PDF to proove ownership.  
-The original upload is still at http://www.k00n.byethost7.com/, and can be traced back by "the internet wayback machine".  
+The original upload is still at http://www.k00n.byethost7.com, and can be traced back by "the internet wayback machine".  
 
 #### Relevant is only the [PDF](https://github.com/M64GitHub/truecrypt-ninja-boot-root/blob/main/revealing_the_hidden.pdf), which contains all the work, including the source code and the screenshots below.
 
