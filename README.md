@@ -1,19 +1,22 @@
-<img width="1328" alt="3" src="https://github.com/M64GitHub/truecrypt-ninja-boot-root/assets/84202356/be664ea3-bfbe-4ad9-99f3-4dbf5f3f84f3">
+<img width="1328" alt="3" src="https://github.com/M64GitHub/truecrypt-ninja-boot-root/assets/84202356/be664ea3-bfbe-4ad9-99f3-4dbf5f3f84f3"> 
+This is an old security research project, dating back to 2012/13. It was released to only a few people/groups for obvious reasons. My goal back then was to fully reverse engineer truecrypts protection and exploit all security measures. As truecrypt is gone, I decided to publish it openly. I have left a secret pointer within the PDF to proove ownership. 
+The original upload is still at [http://www.k00n.byethost7.com/](http://www.k00n.byethost7.com/), and can be traced back with "the internet wayback machine".  
 
-> This is an old security research project, dating back to 2012/13. It was released to only a few people/groups for obvious reasons. My goal back then was to fully reverse engineer truecrypts protection and exploit all security measures. As truecrypt is gone, I decided to publish it openly. I have left a secret pointer within the PDF to proove ownership. 
-> The original upload is still at [http://www.k00n.byethost7.com/](http://www.k00n.byethost7.com/), and can be traced back with "the internet wayback machine".
+#### Relevant is only the [PDF](https://github.com/M64GitHub/truecrypt-ninja-boot-root/blob/main/revealing_the_hidden.pdf), which contains all the work, including the source code and the screenshots below.
 
 ## NBRK - Ninja Boot Rootkit (for TrueCrypt hidden OS)
+ - The following document presents the results of a research about the infection-resistency of the truecrypt hidden operating system against the threats of boot rootkits. It targets the questions whether the state of the art malware could persistently infect the hidden OS from the outside (ie decoy OS), and if yes – how.
 
-An in depth analysis by creating a working boot rootkit for the truecrypt hidden operating system 
+ - An in depth analysis by creating a working boot rootkit for the truecrypt hidden operating system 
 (various windows flavours), with in mem bootsector patching, revealing all passwords in pre kernel- 
 (mbr, chainloader), kernel- ("kernel password painter"), and user space (via ndis exploit or 
 ntfs password writer), ...  
-Additional to it, a whole flexible boot chain loader "purple chain" was presented, including possibilities to boot any sector(s) on the truecrypt encrypted disk, to boot from CDROM after decryption, and lots of fancy stuff ...
+
+ - Additional to it, a whole flexible boot chain loader "purple chain" was presented, including possibilities to boot any sector(s) on the truecrypt encrypted disk, to boot from CDROM after decryption, and lots of fancy stuff ...
 
 
-#### "This document presents the results of a research about the infection-resistency of the truecrypt hidden operating system against the threats of boot rootkits. It targets the questions whether the state of the art malware could persistently infect the hidden OS from the outside (ie decoy OS), and if yes – how."
-  
+
+
   
 [Full Disclosure PDF](https://github.com/M64GitHub/truecrypt-ninja-boot-root/blob/main/revealing_the_hidden.pdf)
 
