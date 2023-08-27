@@ -14,10 +14,6 @@ ntfs password writer), ...
 
  - Additional to it, a whole flexible boot chain loader "purple chain" was presented, including possibilities to boot any sector(s) on the truecrypt encrypted disk, to boot from CDROM after decryption, and lots of fancy stuff ...
 
-
-
-
-  
 [Full Disclosure PDF](https://github.com/M64GitHub/truecrypt-ninja-boot-root/blob/main/revealing_the_hidden.pdf)
 
 ## Ninja Boot Root in full Effect
