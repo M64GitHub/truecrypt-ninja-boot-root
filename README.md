@@ -30,7 +30,7 @@ ntfs password writer), ...
 <img width="676" alt="10" src="https://github.com/M64GitHub/truecrypt-ninja-boot-root/assets/84202356/e9819653-f829-4cb3-bb37-9cd55e3173b0">
 
 #### Effect of NTFS Password writer in 512 bytes 
-(results in passwords printed by command.com for demo purposes):
+(results in passwords printed by command.com for demo purposes):  
 <img width="570" alt="5" src="https://github.com/M64GitHub/truecrypt-ninja-boot-root/assets/84202356/8dfcc894-bb6b-4114-a532-25f309194c13">
 
 
@@ -39,10 +39,10 @@ for research purposes
 
 Screenshots shown randomly on Windows 7, and Windows XP (working on both systems)
 
-Win XP
+Win XP  
 <img width="1086" alt="1" src="https://github.com/M64GitHub/truecrypt-ninja-boot-root/assets/84202356/f374f71f-eccc-4ddd-8bbb-fabc15baf7e3">
 
-Win 7
+Win 7  
 <img width="676" alt="8" src="https://github.com/M64GitHub/truecrypt-ninja-boot-root/assets/84202356/43a04412-2fc5-4c6c-a4db-94a90140f815">
 
 
