@@ -14,19 +14,3 @@ Additional to it, a whole flexible boot chain loader "purple chain" was presente
   
   
 `>>>>>>>>>>` [Full Disclosure PDF](https://github.com/M64GitHub/truecrypt-ninja-boot-root/blob/main/revealing_the_hidden.pdf) `<<<<<<<<<<`
-
-
-### Ninja Boot Rootkit in action on WIN 7/32, XP :
-
-![NBRK1](http://m64.rocks/ninja-boot-root/1.png "NBRK1")
-
-![NBRK1](http://m64.rocks/ninja-boot-root/7.png "NBRK1")
-
-![NBRK1](http://m64.rocks/ninja-boot-root/6.png "NBRK1")
-
-![NBRK1](http://m64.rocks/ninja-boot-root/5.png "NBRK1")
-
-
-### Windows XP Kernel Password Painter =8] : 
-
-![NBRK1](http://m64.rocks/ninja-boot-root/10.png "NBRK1")
